@@ -5,36 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1897924e-b476-447c-8988-0f6d26b86782" name="Changes" comment="Implement task management API with basic CRUD">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/main/java/com/example/taskapi/TaskapiApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/main/java/com/example/taskapi/controller/TaskController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/main/java/com/example/taskapi/dto/TaskCreatRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/main/java/com/example/taskapi/dto/TaskResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/main/java/com/example/taskapi/dto/TaskUpdateRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/main/java/com/example/taskapi/entity/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/main/java/com/example/taskapi/entity/TaskEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/main/java/com/example/taskapi/exception/ErrorModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/main/java/com/example/taskapi/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/main/java/com/example/taskapi/mapper/TaskMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/main/java/com/example/taskapi/repository/TaskRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/main/java/com/example/taskapi/service/TaskService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/main/java/com/example/taskapi/service/TaskServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/main/java/com/example/taskapi/validation/TaskValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/test/java/com/example/taskapi/validation/TaskValidationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +19,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ena1ismail"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ena1ismail/task-manager-api.git",
+    "accountId": "a4861ab2-be16-45ea-adb3-842f7e5c44cc"
+  }
+}]]></component>
   <component name="ProjectId" id="2wmDXGQTz4Ejd9GSi8bT83B9ijk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -61,7 +45,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.TaskapiApplication.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
